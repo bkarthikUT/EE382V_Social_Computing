@@ -8,7 +8,7 @@ OR
 
 Where, InputFile1 is the base input. InputFile2, InputFile3 are incremental updates with reference to the previous input file.
 
-Example: java srp <file_path>/large_100_A.txt <file_path>/large_100_B.txt
+Example: java srp <file_path>/large_1000_A.txt <file_path>/large_1000_B.txt
 
 Input file format:
 <number of students>
