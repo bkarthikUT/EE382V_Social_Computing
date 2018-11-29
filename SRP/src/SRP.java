@@ -411,7 +411,7 @@ public class SRP {
 		Scanner userInput = new Scanner(System.in);
 		long super_total_time=0;
 		for(int i = 0; i < args.length; i++){
-			/* if(i > 1) {
+			/* if(i > 0) {
 				System.out.println("Press any key to proceed further with next incremental setting " + args[i]);
 				userInput.nextLine();
 			}*/
